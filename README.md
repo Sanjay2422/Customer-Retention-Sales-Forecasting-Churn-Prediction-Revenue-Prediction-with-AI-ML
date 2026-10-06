@@ -59,6 +59,9 @@ Customer churn is one of the biggest revenue leaks in the retail industry. This 
 ## 💡 Business Impact
 By identifying customers with a high probability of churning, marketing teams can optimize their budget by targeting interventions exactly where they are needed, rather than relying on blanket promotions.
 
+
+
+
 NOTE: You must use the Cleaned_Online_Retail for generating accurate insights : https://drive.google.com/file/d/1R5x1JaO4PWFIMFq-YKk7d0wWVb6ivAHN/view?usp=sharing
 
 OR
