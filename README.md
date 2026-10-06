@@ -8,6 +8,7 @@ Define churn: No purchases in the last X months.
 Features: RFM (Recency, Frequency, Monetary), CLV, interactions.
 Models: Logistic Regression, Decision Trees, XGBoost.
 Outcome: Targeted retention campaigns.
+
 2. Predicting Next Purchase Date
 Objective: Forecast when a customer will buy next.
 Methods:
@@ -15,6 +16,7 @@ Methods:
 Models: ARIMA, Facebook Prophet, LSTM.
 Features: Purchase intervals, seasonality, external factors.
 Outcome: Timely promotions, inventory optimization.
+
 3. Sales Revenue Prediction
 Objective: Forecast revenue for planning.
 Methods:
