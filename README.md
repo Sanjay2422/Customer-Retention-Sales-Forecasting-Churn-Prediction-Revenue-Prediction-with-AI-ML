@@ -2,6 +2,7 @@
 
 1. Customer Churn Prediction
 Objective: Identify customers likely to stop purchasing.
+
 Methods:
 
 Define churn: No purchases in the last X months.
@@ -11,6 +12,7 @@ Outcome: Targeted retention campaigns.
 
 2. Predicting Next Purchase Date
 Objective: Forecast when a customer will buy next.
+
 Methods:
 
 Models: ARIMA, Facebook Prophet, LSTM.
@@ -19,6 +21,7 @@ Outcome: Timely promotions, inventory optimization.
 
 3. Sales Revenue Prediction
 Objective: Forecast revenue for planning.
+
 Methods:
 
 Models: Linear Regression, XGBoost, Transformers.
